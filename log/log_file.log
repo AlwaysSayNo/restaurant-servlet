@@ -1,0 +1,50 @@
+2023-05-30 22:09:39 INFO  Login:32 - getting login page
+2023-05-30 22:33:08 INFO  Login:32 - getting login page
+2023-05-30 22:33:23 ERROR Login:58 - java.lang.NumberFormatException: Cannot parse null string
+2023-05-30 22:33:23 INFO  UserPage:15 - getting user's page
+2023-05-30 22:33:26 INFO  ShoppingCart:25 - getting shoppingcart page
+2023-05-30 22:33:28 INFO  FoodMenu:24 - getting food menu page
+2023-05-30 22:33:30 INFO  ShoppingCart:25 - getting shoppingcart page
+2023-05-30 22:33:34 INFO  AddFunds:32 - getting addfunds page
+2023-05-30 22:33:36 INFO  BillPaying:29 - getting billpaying page
+2023-05-30 22:33:41 INFO  ConcreteUserStatistic:24 - getting concrete user statistic page
+2023-05-30 22:33:47 INFO  Order:24 - getting order info page
+2023-05-30 22:33:52 INFO  BillPaying:29 - getting billpaying page
+2023-05-30 22:33:55 INFO  ConcreteUserStatistic:24 - getting concrete user statistic page
+2023-05-30 22:34:03 INFO  ConcreteUserStatistic:24 - getting concrete user statistic page
+2023-05-30 22:34:06 INFO  BillPaying:29 - getting billpaying page
+2023-05-30 22:34:08 INFO  AddFunds:32 - getting addfunds page
+2023-05-30 22:34:11 INFO  ShoppingCart:25 - getting shoppingcart page
+2023-05-30 22:34:13 INFO  FoodMenu:24 - getting food menu page
+2023-05-30 22:34:26 ERROR Login:58 - java.lang.NumberFormatException: Cannot parse null string
+2023-05-30 22:34:26 INFO  AdminPage:15 - getting admin's page
+2023-05-30 22:34:28 INFO  UserStatistics:22 - getting userstatistics page
+2023-05-30 22:34:32 INFO  BillMaking:23 - getting bill making page
+2023-05-30 22:34:34 INFO  MakeBill:26 - trying to make bill
+2023-05-30 22:34:34 INFO  BillMaking:23 - getting bill making page
+2023-05-30 22:34:39 INFO  MakeBill:26 - trying to make bill
+2023-05-30 22:34:39 INFO  BillMaking:23 - getting bill making page
+2023-05-30 22:35:03 INFO  BillPaying:29 - getting billpaying page
+2023-05-30 22:35:04 INFO  PayBill:30 - trying to pay bill
+2023-05-30 22:35:04 INFO  JDBCUserDao:117 - update users set funds=436, orders_number=1, orders_total_cost=1000 where id=1;
+2023-05-30 22:35:04 INFO  BillPaying:29 - getting billpaying page
+2023-05-30 22:35:06 INFO  AddFunds:32 - getting addfunds page
+2023-05-30 22:40:38 INFO  BillMaking:23 - getting bill making page
+2023-05-30 22:40:38 INFO  OrderConfirmation:23 - getting orderconfirmation page
+2023-05-30 22:40:40 INFO  UserStatistics:22 - getting userstatistics page
+2023-05-30 22:40:42 INFO  BillMaking:23 - getting bill making page
+2023-05-30 22:40:43 INFO  OrderConfirmation:23 - getting orderconfirmation page
+2023-05-30 22:40:44 INFO  OrderConfirmation:23 - getting orderconfirmation page
+2023-05-30 22:40:45 INFO  OrderConfirmation:23 - getting orderconfirmation page
+2023-05-30 22:40:45 INFO  BillMaking:23 - getting bill making page
+2023-05-30 22:40:45 INFO  UserStatistics:22 - getting userstatistics page
+2023-06-01 00:00:24 INFO  Login:34 - getting login page
+2023-06-01 00:04:39 ERROR Login:55 - java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+2023-06-01 00:05:52 ERROR Login:55 - java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+2023-06-01 00:12:33 ERROR Login:55 - com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Java 8 date/time type `java.time.LocalDate` not supported by default: add Module "com.fasterxml.jackson.datatype:jackson-datatype-jsr310" to enable handling (through reference chain: ua.training.restaurant.entity.user.User["registrationDate"])
+2023-06-01 00:16:36 ERROR Login:55 - com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Java 8 date/time type `java.time.LocalDate` not supported by default: add Module "com.fasterxml.jackson.datatype:jackson-datatype-jsr310" to enable handling (through reference chain: ua.training.restaurant.entity.user.User["registrationDate"])
+2023-06-01 00:17:12 ERROR Login:55 - com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Java 8 date/time type `java.time.LocalDate` not supported by default: add Module "com.fasterxml.jackson.datatype:jackson-datatype-jsr310" to enable handling (through reference chain: ua.training.restaurant.entity.user.User["registrationDate"])
+2023-06-01 00:25:11 ERROR Login:55 - com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Java 8 date/time type `java.time.LocalDate` not supported by default: add Module "com.fasterxml.jackson.datatype:jackson-datatype-jsr310" to enable handling (through reference chain: ua.training.restaurant.entity.user.User["registrationDate"])
+2023-06-01 00:34:25 INFO  FoodMenu:23 - getting food menu page
+2023-06-01 23:41:09 ERROR Login:55 - java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+2023-06-01 23:42:32 ERROR Login:55 - java.lang.StringIndexOutOfBoundsException: String index out of range: 0
